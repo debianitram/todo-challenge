@@ -19,7 +19,7 @@ Desafío Invera
     pip install -r requiements/development.txt
     # Si utilizas PostgreSQL instalar desde el archivo: requirements/development_postgres.txt
    ```
-3. Creacion de un usuario y una base de datos. (Preferentemente PostgreSQL)
+3. Creacion de un usuario y una base de datos. (Preferentemente PostgreSQL) **[Opcional]**
    
     ``` postgres
         CREATE ROLE user_invera LOGIN PASSWORD 'inveraPassw0rd' NOSUPERUSER INHERIT NOCREATEDB NOCREATEROLE NOREPLICATION;
