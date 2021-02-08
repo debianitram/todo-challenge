@@ -1,0 +1,29 @@
+# Logs
+*.log
+logs
+
+# Python
+*.py[codt]
+__pycache__/
+
+# Installer logs
+pip-log.txt
+
+# Translations
+*.mo
+
+# IDE
+.idea/*
+
+# Configuration
+todos/.env
+
+# Tests
+.pytest_cache/
+
+# Statics
+project/static/*
+project/media/*
+
+# Database SQLite
+todos/invera_challenge.db
