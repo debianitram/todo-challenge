@@ -16,14 +16,13 @@ pip-log.txt
 .idea/*
 
 # Configuration
-todos/.env
+challenge/.env
 
 # Tests
 .pytest_cache/
 
 # Statics
-project/static/*
-project/media/*
+challenge/project/static/*
 
 # Database SQLite
-todos/invera_challenge.db
+*.db
