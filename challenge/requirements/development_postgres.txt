@@ -1,0 +1,4 @@
+-r development.txt
+
+# Database
+psycopg2-binary==2.8.6
